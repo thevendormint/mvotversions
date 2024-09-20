@@ -1,0 +1,2 @@
+# mvotversions
+myVeryOwnTeardrop
